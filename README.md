@@ -1,7 +1,7 @@
 # Hi, I'm Leonard Forrosuelo 👋
 
 **About me:**  
-I am a Computer Enginnering wants to knoww Learning everythingg
+I am a Computer Enginnering wants to know everythingg
 
 ## 🚀 Projects
 - [Project One](https://github.com/yourusername/project-one): Brief description.
