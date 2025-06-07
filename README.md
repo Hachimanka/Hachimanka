@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Leonard Forrosuelo 👋
 
-<!--
-**Hachimanka/Hachimanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me:**  
+I am a Computer Enginnering wants to knoww Learning everythingg
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [Project One](https://github.com/yourusername/project-one): Brief description.
+- [Project Two](https://github.com/yourusername/project-two): Brief description.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming languages: Python, JavaScript, etc.
+- Tools: Git, Docker, etc.
+
+## 📫 Contact
+- Email: forrosuelo523@gmail.com
+- https://forrosuelo523@gmail.com/in/yourprofile)
