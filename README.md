@@ -1,18 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Leonard%20Forrosuelo&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20IoT%20Intern%20%E2%80%A2%20Backend-Focused&descAlignY=58&descSize=18" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Leonard%20Forrosuelo&fontSize=44&fontAlignY=38&animation=fadeIn" alt="header" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://myblog-psi-pied.vercel.app/"><img src="https://img.shields.io/badge/portfolio-myblog--psi--pied.vercel.app-3B5BDB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/leonard-forrosuelo-6411933a3"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Hachimanka&label=views&color=3B5BDB&style=flat-square" alt="Profile views"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;IoT+Intern;Backend-Focused+Engineer;Building+Lemivon+%26+TecnnecT" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6D28D9&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;IoT+Intern;Backend-Focused+Engineer;Building+Lemivon+%26+TecnnecT" alt="Typing SVG" />
+  </picture>
 </p>
 
 <br/>
 
+<p align="center">
+  <a href="https://myblog-psi-pied.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/leonard-forrosuelo-6411933a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://web.facebook.com/forrosueloleonard.lape"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Hachimanka&label=views&color=7C3AED&style=flat-square" alt="Profile views"/>
+</p>
+
+<br/>
+
+---
+
 ## About
 
-BS Computer Engineering student at **CIT-U**, building full-stack products with a lean toward backend systems — APIs, databases, authentication, and real-time messaging. Currently an **IoT Intern**, and lead developer on **Lemivon** (an AI-assisted study platform) and **TecnnecT** (a campus rentals & lost-and-found app). Member of the Google Developer's Club (2025–Present) and the Committee on Internal Affairs, Institute of Computer Engineers.
+BS Computer Engineering student at **CIT-U**, building full-stack products with a lean toward backend systems — APIs, databases, authentication, and real-time messaging. Currently an **IoT Intern**, and lead developer on **Lemivon** (an AI-assisted study platform) and **TecnnecT** (a campus rentals & lost-and-found app).
 
 ```
 building    Lemivon, TecnnecT
@@ -20,7 +32,16 @@ interning   IoT — hardware/firmware + backend integration
 learning    React/TypeScript, Firebase, Supabase, MongoDB
 ```
 
+<details>
+<summary><b>Extracurricular & involvement</b></summary>
 <br/>
+
+- Member, Google Developer's Club (2025–Present)
+- Committee on Internal Affairs, Institute of Computer Engineers
+
+</details>
+
+---
 
 ## Tech Stack
 
@@ -31,7 +52,7 @@ learning    React/TypeScript, Firebase, Supabase, MongoDB
   </picture>
 </p>
 
-<br/>
+---
 
 ## Featured Projects
 
@@ -42,9 +63,16 @@ learning    React/TypeScript, Firebase, Supabase, MongoDB
 | **[StudyTa](https://github.com/Hachimanka/StudyTaa)** | Web-based study platform for organizing notes and reviewing lessons | Full-stack lead |
 | **[TLC Engine](https://github.com/Hachimanka/tlc_engine)** | Scalable multi-tenant platform with role-based access and per-org environments | Full-stack lead |
 
-<br/>
+---
 
-## GitHub Stats
+## Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hachimanka/Hachimanka/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Hachimanka/Hachimanka/output/github-contribution-grid-snake.svg" alt="contribution snake animation" width="100%"/>
+  </picture>
+</p>
 
 <p align="center">
   <picture>
@@ -64,19 +92,6 @@ learning    React/TypeScript, Firebase, Supabase, MongoDB
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Hachimanka&theme=tokyo-night&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hachimanka&theme=minimal&hide_border=true" alt="Activity graph" width="97%" />
-  </picture>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://linkedin.com/in/leonard-forrosuelo-6411933a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://web.facebook.com/forrosueloleonard.lape"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-  <a href="https://myblog-psi-pied.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-</p>
+---
 
 <p align="center"><sub><i>Passion powers my work, curiosity shapes my innovation.</i></sub></p>
