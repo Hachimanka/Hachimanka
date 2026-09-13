@@ -22,15 +22,16 @@
 
 ---
 
-### 👤 About Me
+### About Me
 
-- 🎓 BS Computer Engineering student at **CIT-U**
-- 🔌 Currently an **IoT Intern** at *[Company Name]* — working on [connected-device firmware / sensor integration] <!-- ✏️ fill in your company + focus area -->
-- 💻 Full-stack developer who gravitates toward **backend systems** — APIs, databases, auth, real-time messaging
-- 🚧 Building/leading **[Lemivon](https://myblog-psi-pied.vercel.app/projects/lemivon)** (AI-powered study platform) and **[TecnnecT](https://myblog-psi-pied.vercel.app/projects/tecnnect)** (campus rentals, lost & found, messaging)
-- 🤝 Member, **Google Developer's Club** (2025–Present) · Committee on Internal Affairs, **Institute of Computer Engineers**
-- 🌱 Sharpening React/TypeScript on the frontend and Firebase/Supabase/MongoDB/MySQL on the backend
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/leonard-forrosuelo-6411933a3) or through my [portfolio](https://myblog-psi-pied.vercel.app/)
+BS Computer Engineering student at **CIT-U**, building full-stack products with a lean toward backend systems — APIs, databases, authentication, and real-time messaging. Currently an **IoT Intern** at *[Company Name]* — working on [connected-device firmware / sensor integration] <!-- ✏️ fill in your company + focus area --> — and lead developer on **[Lemivon](https://myblog-psi-pied.vercel.app/projects/lemivon)** (an AI-powered study platform) and **[TecnnecT](https://myblog-psi-pied.vercel.app/projects/tecnnect)** (a campus rentals & lost-and-found app). Member of the Google Developer's Club (2025–Present) and the Committee on Internal Affairs, Institute of Computer Engineers.
+
+```
+currently building   Lemivon, TecnnecT
+currently interning  IoT — connected-device firmware / sensor integration
+currently learning   React/TypeScript, Firebase, Supabase, MongoDB
+reach me at          LinkedIn · Portfolio
+```
 
 ---
 
