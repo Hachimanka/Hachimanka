@@ -1,81 +1,50 @@
-<h1 align="center">Hi 👋, I'm Leonard Forrosuelo</h1>
-<h3 align="center">Full-stack developer · backend-focused · BS Computer Engineering @ CIT-U</h3>
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Backend-Leaning+Engineer;Building+Lemivon+%26+TecnnecT;Passion+powers+my+work%2C+curiosity+shapes+my+innovation." />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3B5BDB&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Backend-Leaning+Engineer;Building+Lemivon+%26+TecnnecT;Passion+powers+my+work%2C+curiosity+shapes+my+innovation." alt="Typing SVG" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Leonard%20Forrosuelo&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20IoT%20Intern%20%E2%80%A2%20Backend-Focused&descAlignY=58&descSize=18" alt="header" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://myblog-psi-pied.vercel.app/"><img src="https://img.shields.io/badge/portfolio-myblog--psi--pied.vercel.app-3B5BDB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/leonard-forrosuelo-6411933a3"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Hachimanka&label=Profile%20Views&color=3B5BDB&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Hachimanka&label=views&color=3B5BDB&style=flat-square" alt="Profile views"/>
 </p>
 
----
+<br/>
 
-### 👤 About Me
+## About
 
-- 🎓 BS Computer Engineering student at **CIT-U**
-- 💻 Full-stack developer who gravitates toward **backend systems** — APIs, databases, auth, real-time messaging
-- 🚧 Currently building/leading **[Lemivon](https://myblog-psi-pied.vercel.app/allprojects)** (AI-powered study platform) and **[TecnnecT](https://myblog-psi-pied.vercel.app/allprojects)** (campus rentals, lost & found, messaging)
-- 🤝 Member, **Google Developer's Club** (2025–Present) · Committee on Internal Affairs, **Institute of Computer Engineers**
-- 🌱 Currently sharpening skills across React/TypeScript on the frontend and Firebase/Supabase/MongoDB/MySQL on the backend
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/leonard-forrosuelo-6411933a3) or through my [portfolio](https://myblog-psi-pied.vercel.app/)
+BS Computer Engineering student at **CIT-U**, building full-stack products with a lean toward backend systems — APIs, databases, authentication, and real-time messaging. Currently an **IoT Intern**, and lead developer on **Lemivon** (an AI-assisted study platform) and **TecnnecT** (a campus rentals & lost-and-found app). Member of the Google Developer's Club (2025–Present) and the Committee on Internal Affairs, Institute of Computer Engineers.
 
----
+```
+building    Lemivon, TecnnecT
+interning   IoT — hardware/firmware + backend integration
+learning    React/TypeScript, Firebase, Supabase, MongoDB
+```
 
-### 🛠️ Tech Stack
+<br/>
 
-**Languages**
+## Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,c,cpp,cs,py,ts,js,react,html,css,figma,firebase,supabase,mongodb,mysql,vercel,git,arduino&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,py,ts,js,react,html,css,figma,firebase,supabase,mongodb,mysql,vercel,git,arduino&theme=light&perline=9" alt="Tech stack" />
+  </picture>
 </p>
 
-**Frontend**
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+## Featured Projects
 
-**Backend, Data & Platforms**
-
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | My Role |
+| Project | Description | Role |
 |---|---|---|
-| **[Lemivon](https://myblog-psi-pied.vercel.app/allprojects)** | AI-powered study platform that helps users organize materials and improve learning efficiency | Led backend development, contributed to frontend |
-| **[TecnnecT](https://myblog-psi-pied.vercel.app/allprojects)** | Campus web app for rentals, lost & found, and messaging | Led development — system design, backend, database, auth, messaging |
-| **[StudyTa](https://github.com/Hachimanka/StudyTaa)** | Web-based study platform for organizing notes and reviewing lessons | Led development, backend + frontend |
-| **[TLC Engine](https://github.com/Hachimanka/tlc_engine)** | Scalable multi-tenant platform with role-based access and per-organization environments | Led project, backend + frontend |
+| **[Lemivon](https://myblog-psi-pied.vercel.app/allprojects)** | AI-assisted study platform for organizing materials and improving learning efficiency | Backend lead, frontend contributor |
+| **[TecnnecT](https://myblog-psi-pied.vercel.app/allprojects)** | Campus web app for rentals, lost & found, and messaging | Full-stack lead — system design, database, auth, messaging |
+| **[StudyTa](https://github.com/Hachimanka/StudyTaa)** | Web-based study platform for organizing notes and reviewing lessons | Full-stack lead |
+| **[TLC Engine](https://github.com/Hachimanka/tlc_engine)** | Scalable multi-tenant platform with role-based access and per-org environments | Full-stack lead |
 
----
+<br/>
 
-### 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <picture>
@@ -102,16 +71,12 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hachimanka&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
-
----
+<br/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/leonard-forrosuelo-6411933a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://web.facebook.com/forrosueloleonard.lape"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://myblog-psi-pied.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/leonard-forrosuelo-6411933a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://web.facebook.com/forrosueloleonard.lape"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+  <a href="https://myblog-psi-pied.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>Passion powers my work, curiosity shapes my innovation.</i></p>
+<p align="center"><sub><i>Passion powers my work, curiosity shapes my innovation.</i></sub></p>
